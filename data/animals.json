@@ -135,6 +135,34 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "bogus",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Sabine",
+      "species": "Asian Panda",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Sabine",
+      "species": "Asian Panda",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "16"
     }
   ]
 }
